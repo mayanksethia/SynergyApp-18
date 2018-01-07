@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Synergy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="start">start</string>
+    <string name="iete"><![CDATA[The Institution of Electronics and Telecommunication Engineers (IETE) is India\'s leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT. The Institution provides leadership in Scientific and Technical areas of direct importance to the national development and economy. Government of India has recognized IETE as a Scientific and Industrial Research Organization (SIRO) and also notified as an educational Institution of national eminence. The objectives of IETE focus on advancing electro-technology. The IETE conducts and sponsors technical meetings, conferences, symposia, and exhibitions all over India, publishes technical journals and provides continuing education as well as career advancement opportunities to its members.]]></string>
+    <string name="iete_info"><![CDATA[The Institution of Electronics and Telecommunication Engineers (IETE) is India\'s leading recognized professional society devoted to the advancement of Science and Technology of Electronics, Telecommunication & IT. The Institution provides leadership in Scientific and Technical areas of direct importance to the national development and economy. Government of India has recognized IETE as a Scientific and Industrial Research Organization (SIRO) and also notified as an educational Institution of national eminence. The objectives of IETE focus on advancing electro-technology. The IETE conducts and sponsors technical meetings, conferences, symposia, and exhibitions all over India, publishes technical journals and provides continuing education as well as career advancement opportunities to its members.]]></string>
+    <string name="synergy_info">Synergy 2018 is an International Technical Symposium organized by Institution of Electronics and Telecommunication Engineers (IETE-ISF) in association with School of Electronics and Telecommunication Engineering - VIT University, Vellore. Symposium offers a one-of-a-kind experience to students by providing an array of opportunities under one umbrella. The idea behind Synergy\'18 is to train students in future forward technologies through workshops and provide global exposure and esoteric knowledge through guest lectures delivered by eminent personalities.Synergy\'18 looks forward to promote; ”Envisioning the Future”, which not only embraces one\'s desire to become better, but also enables one to be able to explain the myriad of emotions a person experiences on the path to success and spread the word.</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_to">share</string>
+    <string name="ml_description"><![CDATA[A two day workshop on Artificial Neural Network (ANN) and Fuzzy Logic by field experts from Scientific Computing Solution. The objective of this workshop is to uncover the understandings of ANN, Fuzzy Logic & GA in a clear way with hand worked numerical exercise followed by SCILAB/MATLAB® program to realize various applications of Soft Computing ranging from Image Processing, Data Mining, Pattern Recognition to AI. Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from large volumes of data in various forms either structured or unstructured, which will be used in Data Mining and Predictive Analytics, as well as Knowledge Discovery in Databases. This workshop emphasizes on the broad range of techniques for Machine Learning and Deep Learning using Open Source Python software.]]></string>
+    <string name="vlsi_info">A two-day workshop on VLSI design by professionals from HT INDIA LABS. Very-large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining thousands of transistors into a single chip. VLSI began in the 1970s when complex semiconductor and communication technologies were being developed. Over the course of 2 days, participants will be taught various topics including VLSI design methodologies and review of digital systems. Hands-on practical knowledge will be imparted. Participants will be taught design entry methods using Verilog HDL, FSM design and lots of other interesting things. These will surely add feathers to your resume and help you stand out from the crowd.</string>
+    <string name="robotics_info">IETE-ISF, in association with roboVITics welcomes you to our Voice-Controlled Robotics workshop. Robotics is fundamentally a branch of technology that deals with the design, construction, operation, and application of robots. It is a powerful tool to understand the basic concepts of Computer Science, Mechanical engineering, and Electronics engineering. In this workshop a simplified version of C++ language for programming our Robot using the Arduino IDE. This course is designed for students interested in controlling Robots with Bluetooth. No coding experience is required; all you need is an Arduino, Bluetooth, some low cost hardware and electronics component for building the Robot. The workshop will start from basics of Arduino programming and then move to higher topics. In this workshop spanning 2 days, participants will be brushed up with the basics of robotics and the Arduino software. They will be taught how to handle the L293D IC and constructing a robot using it. Hardware kits will be provided.</string>
+    <string name="paper_info"><![CDATA[The Paper Presentation Event at Synergy\'18 aims to provide the best platform to showcase your research ideas in front of an esteemed panel of judges. If you have carried out research works in the electronics & computer-science fields, we would be more than happy to hear your ideas out! Prepare a presentation and unleash the speaker in you to grab exciting prizes! If your idea gets selected, it will be published in the International Journal for Research in Applied Science and Engineering Technology (IJRASET). This year we are accepting CSE/IT/ECE/EEE/EIE related abstracts. Participants are requested to mail their abstracts to synergypapers18@gmail.com Abstracts sent by e-mail must have the subject of the e-mail as: [PP] [Branch][College] The last date for sending your abstract is 10th of January, 2018. You will be informed about the selection of your abstract through an e-mail. The Paper Presentation Competition will be conducted on 23rd and 24th of February, 2018 in VIT University, Vellore. Any other important detail regarding the venue or the timings of the competition will be conveyed through e-mails.]]></string>
+</resources>
